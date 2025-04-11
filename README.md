@@ -37,6 +37,3 @@ Aplicativo Android desenvolvido como parte de um projeto acadêmico para auxilia
 ## 👥 Colaboradores
 - Guilherme Dias de Oliveira (Desenvolvedor)
 - Juliana Ferreira da Silva (Proprietária do salão)
-
-## 📄 Licença
-Este projeto está licenciado sob a [MIT License](./LICENSE).
